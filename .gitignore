@@ -1,0 +1,6 @@
+*.pdf
+*.png
+*-env/*
+.DS_Store
+*.md
+*.docx
